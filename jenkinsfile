@@ -1,6 +1,6 @@
 pipeline {
     agent any
-
+    // github webhook command
     // this section configures Jenkins options
     options {
 
